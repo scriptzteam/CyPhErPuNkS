@@ -1,3 +1,4 @@
+![CyPhErPuNkS](https://cypherpunks.xyz/CyPhErPuNkS.png)
 # CypherPunks
 https://cypherpunks.xyz/
 
